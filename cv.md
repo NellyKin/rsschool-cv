@@ -7,12 +7,12 @@
 **Phone** +7 999 123 45 67
 **E-mail** n.kinzh@gmail.com
 
-## ###Briefly About Myself
+###Briefly About Myself
 
-## ###Skills and Proficiency
+###Skills and Proficiency
 
-## ###Code example
+###Code example
 
-## ###Courses
+###Courses
 
 ###Languages
