@@ -1,14 +1,19 @@
-##Nelly Kinzhigalieva
-###Junior frontend developer
+## Nelly Kinzhigalieva
+
+### Junior frontend developer
 
 ---
 
-###Contact information
+### Contact information
+
 **Phone** +7 999 123 45 67
+
 **E-mail** n.kinzh@gmail.com
+
 **Discord** Nelly Kinzhigalieva (@NellyKin)
 
-###Briefly About Myself
+### Briefly About Myself
+
 **Goal:** get a job with a developing IT company as junior frontend developer
 
 My interest of web development was evolved from my work experience in IT company where I worked as QA lead's helper. I was finally convinced that I want to engage in front-end development and work in this field.
@@ -20,7 +25,7 @@ My interest of web development was evolved from my work experience in IT company
 - read articles on habr
 - self education
 
-###Skills and Proficiency
+### Skills and Proficiency
 
 - Google in English
 - HTML, CSS
@@ -30,7 +35,7 @@ My interest of web development was evolved from my work experience in IT company
 - Git, GitHub
 - VS Code, Atom, Figma
 
-###Code example
+### Code example
 **Task on CodeCamp**
 
 ```
@@ -56,13 +61,13 @@ function golfScore(par, strokes) {
 golfScore(5, 4);
 ```
 
-###Courses
+### Courses
 
 - HTML and CSS at [Brunoyam]("https://brunoyam.com/kursy-programmirovaniya/s-nulya"), on [HTML Academy]("https://htmlacademy.ru/") (completed)
 - JS on [learnjavascript]("http://learn.javascript.ru/"), [freeCodeCamp]("https://www.freecodecamp.org/") (in progress)
 - RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 
-###Languages
+### Languages
 
 - Russian - native
 - English - intermediate (B1)
