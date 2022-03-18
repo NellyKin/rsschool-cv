@@ -63,8 +63,8 @@ golfScore(5, 4);
 
 ### Courses
 
-- HTML and CSS at [Brunoyam]("https://brunoyam.com/kursy-programmirovaniya/s-nulya"), on [HTML Academy]("https://htmlacademy.ru/") (completed)
-- JS on [learnjavascript]("http://learn.javascript.ru/"), [freeCodeCamp]("https://www.freecodecamp.org/") (in progress)
+- HTML and CSS at [Brunoyam](https://brunoyam.com/kursy-programmirovaniya/s-nulya), on [HTML Academy](https://htmlacademy.ru) (completed)
+- JS on [learnjavascript](http://learn.javascript.ru), [freeCodeCamp](https://www.freecodecamp.org) (in progress)
 - RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 
 ### Languages
